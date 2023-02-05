@@ -14,7 +14,9 @@
 Obrigado por dar uma olhada nesse projeto para front-end.
 
 
-Esse projeto foi idealizado pelo curso da Alura "[JavaScript: Validando Formulários](https://cursos.alura.com.br/course/javascript-validando-formularios)".   
+Esse projeto foi idealizado pelo curso da Alura "[JavaScript: Validando Formulários](https://cursos.alura.com.br/course/javascript-validando-formularios)".
+
+Para visualizar, [clique aqui](https://luizfelipesantospereira.github.io/LuizBank/)
 
 **Não deixe de conferir meus outros projetos :smiley:**
 
