@@ -36,12 +36,4 @@ Esse projeto foi idealizado pelo curso da Alura "[JavaScript: Validando Formulá
 -   HTML
 -   CSS
 -  JavaScript
-- NodeJS
-
-## 🛠️ Como rodar
-
- - Tenha o NodeJS instalado
- - Entre na sua IDE 
- - Rode os comandos "npm init" e "json-server --watch db.json" no terminal
- - Use a extensão LiveServer para visualizar as páginas
   
